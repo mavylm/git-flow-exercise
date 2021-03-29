@@ -10,9 +10,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
 
-### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
+### [Eggs Benny](writer/eggs-benny.md) | ngoboonkeong@flavor.magazine
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
+[Eggs Benny](../recipe/feb/eggs-penny-feb.md)
 
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
 
